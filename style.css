@@ -1,0 +1,20 @@
+.awe{
+    display: none;
+}
+.hidden{
+    display: none;
+}
+.hidden1{
+    display: block;
+}
+label{
+    color: green;
+    font-size: large;
+    font-weight: 600;
+}
+input{
+    cursor: pointer;
+    
+};
+
+
